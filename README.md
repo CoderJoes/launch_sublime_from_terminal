@@ -56,5 +56,5 @@ Now you don't need to get out of Terminal to simply open a file or a folder, you
 
 Have fun, Sublime is a great editor showing a lot of promise. 
 
-##Recommendation: install Package Manager.
+##Recommendation: install Package Control.
 
